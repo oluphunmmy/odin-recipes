@@ -1,3 +1,5 @@
-[main (root-commit) 2bd8999] I have just cloned the project repo and added the Readme of the Project
- 1 file changed, 1 insertion(+)
- create mode 100644 README.md
+##Project: Recipes
+
+This project is my foundatonal project built at Odion Project to put to practice the HTML knowledge you I acquired during my learning phase. In this project, In this project, i built a basic recipe meals website .
+
+This page can be viewed live at: https://oluphunmmy.github.io/odin-recipes/
